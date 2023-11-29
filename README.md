@@ -54,24 +54,6 @@ It contains components (infrastructure as code in Bicep, C# Azure Functions appl
 - [Custom environment variables](./docs/A2-CustomEnvironmentVariables.md)
 - [Get the URL of a Dataverse environment](./docs/A3-GetDataverseEnvironmentUrl.md)
 
-## ❗ Code of Conduct
-
-I, **Raphael Pothin** ([@rpothin](https://github.com/rpothin)), as creator of this project, am dedicated to providing a welcoming, diverse, and harrassment-free experience for everyone.
-I expect everyone visiting or participating in this project to abide by the following [**Code of Conduct**](CODE_OF_CONDUCT.md).
-Please read it.
-
-## 👐 Contributing to this project
-
-From opening a bug report to creating a pull request: every contribution is appreciated and welcomed.
-For more information, see [CONTRIBUTING.md](CONTRIBUTING.md)
-
-### Not Sure Where to Start?
-
-If you want to participate to this project, but you are not sure how you can do it, do not hesitate to contact [@rpothin](https://github.com/rpothin):
-
-- By email at **raphael.pothin@gmail.com**
-- On [Twitter](https://twitter.com/RaphaelPothin)
-
 ## 📝 License
 
 All files in this repository are subject to the [MIT](LICENSE) license.
